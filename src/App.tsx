@@ -1,11 +1,12 @@
 
 import './App.css'
+import Router from './routes'
 
 function App() {
 
   return (
-    <div className='bg-slate-600'>
-      hhhhhhhhh
+    <div>
+      <Router />
     </div>
   )
 }
